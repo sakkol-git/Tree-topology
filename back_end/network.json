@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "type": "router",
+    "name": "MainRouter",
+    "parent_id": null,
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "type": "switch",
+    "name": "switch-01",
+    "parent_id": 1,
+    "status": "active"
+  }
+]
